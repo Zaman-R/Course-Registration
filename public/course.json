@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/pnLcZ1G/Rectangle-2.png",
+    "title": "Introduction to C Programming",
+    "details": "This course provides an introduction to the fundamentals of C programming. You'll learn the basics of programming in C, including data types, control structures, functions, and more.",
+    "price": 15000,
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/vPX87vq/Rectangle-2-1.png",
+    "title": "Introduction to Algorithms",
+    "details": "Explore the world of algorithms in this course. You'll study various algorithms and data structures, algorithm analysis, and problem-solving techniques.",
+    "price": 25000,
+    "credit": 2
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/jk86NL0/Rectangle-2-2.png",
+    "title": "Introduction to C++ for DSA",
+    "details": "This course introduces you to C++ programming with a focus on Data Structures and Algorithms (DSA). You'll learn how to implement common DSA concepts in C++.",
+    "price": 10000,
+    "credit": 10
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/X8mDcJ9/Rectangle-2-3.png",
+    "title": "Basic Data Structures",
+    "details": "Delve into the fundamentals of data structures. You'll study arrays, linked lists, stacks, queues, and trees, and understand how to use them to solve problems.",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/FbtnjdK/Rectangle-2-4.png",
+    "title": "Introduction to CQP Python",
+    "details": "Learn the basics of Python programming with a focus on scientific computing, data analysis, and visualization using CQP (Cython, Numpy, and Matplotlib).",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 6,
+    "cover": "https://i.ibb.co/gJqrqkk/Rectangle-2-5.png",
+    "title": "Software Engineering",
+    "details": "Discover the principles and practices of software engineering. You'll cover software development methodologies, design patterns, and more.",
+    "price": 10000,
+    "credit": 2
+  },
+  {
+    "id": 7,
+    "cover": "https://i.ibb.co/F5m81nN/Rectangle-2-6.png",
+    "title": "AWS, Cloud Computing",
+    "details": "Explore Amazon Web Services (AWS) and cloud computing concepts. This course covers AWS services, infrastructure as code, and cloud architecture.",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "id": 8,
+    "cover": "https://i.ibb.co/wWbx8FW/Rectangle-3.png",
+    "title": "Database (MySQL)",
+    "details": "Learn about database management using MySQL. Topics include SQL queries, database design, and practical database administration.",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "id": 9,
+    "cover": "https://i.ibb.co/6yJ5t5B/Rectangle-3-1.png",
+    "title": "Problem-Solving Part",
+    "details": "This course focuses on enhancing your problem-solving skills. You'll tackle a variety of algorithmic problems and develop effective problem-solving strategies.",
+    "price": 23000,
+    "credit": 2
+  }
+]
